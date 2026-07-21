@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0351/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 呆菴莊禪師語錄總目卷之一南康雲居真如禪寺語錄卷之二杭州徑山興聖萬壽禪寺語錄卷之三小參卷之四拈古三十八則卷之五頌古四十七則卷之六偈二十九首歌六首吟一首卷之七詩七言八句二十四首七言絕句六十五首卷之八詩五言八句二十一首讚佛祖讚二十七首自讚六首塔銘呆菴莊禪師語錄總目終
   hash: sha256:cbe1d3f88bab2d4d00bd7da4c976b550223925d6e78c1a5984c995acefc94619
   markers:
   - {type: 其他, offset: 0, content: 呆菴莊禪師語錄總目, id: KR6q0351_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 呆菴普莊禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X71/X71n1418.xml
     old_id: X71n1418
-hash: sha256:3a373ecb924490bff44ed7beaf952b1a5b19cd9c3a7673ad81b596764eba2c4f
+hash: sha256:7cbd3f4deb7ab7843142b42957055757e3c8248b96ca0fa461a315dcd2254436

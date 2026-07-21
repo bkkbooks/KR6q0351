@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0351_000-X.yaml, hash: 'sha256:3a373ecb924490bff44ed7beaf952b1a5b19cd9c3a7673ad81b596764eba2c4f'}
+  - {seq: 0, filename: KR6q0351_000-X.yaml, hash: 'sha256:7cbd3f4deb7ab7843142b42957055757e3c8248b96ca0fa461a315dcd2254436'}
   - {seq: 1, filename: KR6q0351_001-X.yaml, hash: 'sha256:6525e298f924b59f16fc913b492330012922643a50a8b080154600f34deb1f38'}
   - {seq: 2, filename: KR6q0351_002-X.yaml, hash: 'sha256:fdb655e95a94024d000df4cab632762a1fe90425c6bfb246bf1688a05865adbc'}
   - {seq: 3, filename: KR6q0351_003-X.yaml, hash: 'sha256:3c47d582dec177da2a40260635f2c4b0fcacc1abcf9e49de71bd6203d0435a24'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6q0351_007-X.yaml, hash: 'sha256:caf5c99f3a62691e18cc4be28a1023622044046727d3cc0c7efb5850dbdba7ff'}
   - {seq: 8, filename: KR6q0351_008-X.yaml, hash: 'sha256:9287e8e6bcb8da4c7091d0c2d819cad41d503bf7692d9b51685c0ae81ea01e41'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0351_000-X.markers.yaml, hash: 'sha256:da5d0a45e4625698bdf2fff1ff660079defe72b270f6d5de569a9c0374f0a1cd'}
+  - {seq: 0, role: markers, filename: assets/KR6q0351_000-X.markers.yaml, hash: 'sha256:34ed7355fb60b2a2a5dba9ddf0637c90513adef1da025dd45f015f9a727af2ee'}
   - {seq: 1, role: markers, filename: assets/KR6q0351_001-X.markers.yaml, hash: 'sha256:6f31d7c4ac2d0ebd3dc291caf83a23badbe460bd89626c5b7b8f93cbd78ad2c4'}
   - {seq: 2, role: markers, filename: assets/KR6q0351_002-X.markers.yaml, hash: 'sha256:1f82b5652795e463f3d6fc9622c58605155512e3204635f3233c2f400d3279d0'}
   - {seq: 3, role: markers, filename: assets/KR6q0351_003-X.markers.yaml, hash: 'sha256:b5f89c4421647699260184b8b71d35ce2a2fd3c76d50c6504f4f8b82308d45e7'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0351_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 呆菴莊禪師語錄總目
@@ -1619,4 +1619,4 @@ table_of_contents:
   label: 塔銘
   type: mulu
   level: 1
-hash: sha256:a5fa97160fde9b240a0881fa3bee16dcac7f3f72976db7cde3edae2182b1a339
+hash: sha256:2a6c848cb4ddd8a53b6fa3c9e19cc4ae7d3288db7be2e9e5ce9974a769ec0451
